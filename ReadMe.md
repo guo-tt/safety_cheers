@@ -1,5 +1,7 @@
 # Safety Cheers
 
+![alt text](https://github.com/guo-tt/safety_cheers/blob/master/readme_images/workflow.png?raw=true)
+
 ## Object
 This work is to detect if worker wear helmet on image and video.
 
